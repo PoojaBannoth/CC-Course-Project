@@ -1,8 +1,9 @@
 # Cloud-Computing-Course-Project
-# Course Code : CS466
-# Course Name : Cloud Computing
 
+### Delay Guaranteed Energy-efficient Computation Offloading for Industrial IoT in Fog Computing
 
+## Course Code : CS466
+## Course Name : Cloud Computing
 
 ## Submitted By : 
  - Kruthika K Sudhama - 191CS224
